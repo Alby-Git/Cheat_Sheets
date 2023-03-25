@@ -1,5 +1,9 @@
 <!-- ~ Git Cheatsheet for everyday usage -->
 
+## Todo:
+> Give Code examples for each command?
+
+
 ## Commands 
 > **git init** : initializes a new Git repository in your current directory.
 ---
