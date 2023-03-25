@@ -23,6 +23,21 @@ init -> use this command inside of your project to turn it into a Git repository
 ---
 
 ## Commands 
+> **git init** : initializes a new Git repository in your current directory.
+---
+> **git add** : Adds changes to the staging area for the next commit.
+---
+> **git commit** : Creates a new commit with the changes in the staging area.
+---
+> **git clone** :  Copies a remote repository to your local machine
+
 ```git
     git colone <HTTPS or SSH adress>
 ```
+---
+
+> **git push** : Uploads local changes to a remote repository.
+---
+> **git pull** : initializes a new Git repository in your current directory.
+
+<>
