@@ -6,8 +6,9 @@ Feel free to use this repository as a source of inspiration or as a small help t
 
 ## Topics
 * Markdown
+* Git
 
 ## Upcomming Topics
 * [x] Markdown
-* [] Git
+* [x] Git
 * [] Python
