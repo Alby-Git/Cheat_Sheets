@@ -8,6 +8,6 @@ Feel free to use this repository as a source of inspiration or as a small help t
 * Markdown
 
 ## Upcomming Topics
-* [] Markdown
+* [x] Markdown
 * [] Git
 * [] Python
